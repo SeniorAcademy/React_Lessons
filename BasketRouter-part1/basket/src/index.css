@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* a{
+  background-color: aqua;
+  padding: 5px;
+  border-radius: 5px;
+  margin-top: 30px;
+} */
