@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fullName": "Milan Baros",
+      "age": "22",
+      "email": "baros@gmail",
+      "position": "Developer"
+    },
+    {
+      "fullName": "Abbas",
+      "age": "44",
+      "email": "kim@1905",
+      "position": "Design",
+      "id": "2"
+    },
+    {
+      "fullName": "Jelert",
+      "age": "21",
+      "email": "admin@gmail.com",
+      "position": "Design",
+      "id": "5"
+    },
+    {
+      "id": "d1d4",
+      "fullName": "Icardi",
+      "age": "31",
+      "email": "kim@1905",
+      "position": "Forvet"
+    },
+    {
+      "id": "aef2",
+      "fullName": "Dede",
+      "age": "44",
+      "email": "coder@gmail.com",
+      "position": "Design"
+    }
+  ]
+}
